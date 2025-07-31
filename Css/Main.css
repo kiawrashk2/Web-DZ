@@ -1,5 +1,5 @@
 @font-face {
-    font-family: iransans;
+    font-family: Basefont-iransans;
     src: url(/Font/IRANSans.ttf);
 }
 
@@ -8,9 +8,6 @@
     padding: 0px;
     margin: 0px;
     font-size: 16px;
-    font-family: IRANSANS;
+    font-family: Basefont-iransans;
 }
 
-body{
-    
-}
