@@ -1,0 +1,2599 @@
+%!Adobe-FontList 1.23
+%Locale:0x429
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANSans-Bold
+FamilyName:IRAN Sans
+StyleName:Bold
+FullName:IRAN Sans Bold
+MenuName:IRAN Sans
+StyleBits:0
+FamilyNameNative:IRAN Sans
+StyleNameNative:Bold
+FullNameNative:IRAN Sans Bold
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\IRAN Sans Bold (mmrostami.blog.ir).ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:72268
+FileModTime:1502452071
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,IRAN Sans Bold
+NameArray:0,Mac,4,IRAN Sans Bold
+NameArray:0,Win,1,IRAN Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANSans
+FamilyName:IRAN Sans
+StyleName:Regular
+FullName:IRAN Sans
+MenuName:IRAN Sans
+StyleBits:0
+FamilyNameNative:IRAN Sans
+StyleNameNative:Regular
+FullNameNative:IRAN Sans Regular
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\IRAN Sans Regular (mmrostami.blog.ir).ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:69040
+FileModTime:1502452071
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,IRAN Sans
+NameArray:0,Mac,4,IRAN Sans
+NameArray:0,Win,1,IRAN Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANSansFaNum
+FamilyName:IRANSansFaNum
+StyleName:Regular
+FullName:IRANSansFaNum
+MenuName:IRANSansFaNum
+StyleBits:0
+FamilyNameNative:IRANSansFaNum
+StyleNameNative:Regular
+FullNameNative:IRANSansFaNum Regular
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\IRANSans(FaNum).ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:104668
+FileModTime:1550391292
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANSansFaNum
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANSansFaNum-Black
+FamilyName:IRANSansFaNum
+StyleName:Black
+FullName:IRANSansFaNum Black
+MenuName:IRANSansFaNum Black
+StyleBits:0
+FamilyNameNative:IRANSansFaNum
+StyleNameNative:Black
+FullNameNative:IRANSansFaNum Black
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\IRANSans(FaNum)_Black.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:98588
+FileModTime:1550391292
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANSansFaNum Black
+NameArray:0,Win,16,IRANSansFaNum
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANSansFaNum-Bold
+FamilyName:IRANSansFaNum
+StyleName:Bold
+FullName:IRANSansFaNum Bold
+MenuName:IRANSansFaNum
+StyleBits:2
+FamilyNameNative:IRANSansFaNum
+StyleNameNative:Bold
+FullNameNative:IRANSansFaNum Bold
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\IRANSans(FaNum)_Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:100992
+FileModTime:1550391292
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANSansFaNum
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANSansFaNum-Light
+FamilyName:IRANSansFaNum
+StyleName:Light
+FullName:IRANSansFaNum Light
+MenuName:IRANSansFaNum Light
+StyleBits:0
+FamilyNameNative:IRANSansFaNum
+StyleNameNative:Light
+FullNameNative:IRANSansFaNum Light
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\IRANSans(FaNum)_Light.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:97580
+FileModTime:1550391292
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANSansFaNum Light
+NameArray:0,Win,16,IRANSansFaNum
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANSansFaNum-Medium
+FamilyName:IRANSansFaNum
+StyleName:Medium
+FullName:IRANSansFaNum Medium
+MenuName:IRANSansFaNum Medium
+StyleBits:0
+FamilyNameNative:IRANSansFaNum
+StyleNameNative:Medium
+FullNameNative:IRANSansFaNum Medium
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\IRANSans(FaNum)_Medium.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:92980
+FileModTime:1550391292
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANSansFaNum Medium
+NameArray:0,Win,16,IRANSansFaNum
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANSansFaNum-UltraLight
+FamilyName:IRANSansFaNum
+StyleName:UltraLight
+FullName:IRANSansFaNum UltraLight
+MenuName:IRANSansFaNum UltraLight
+StyleBits:0
+FamilyNameNative:IRANSansFaNum
+StyleNameNative:UltraLight
+FullNameNative:IRANSansFaNum UltraLight
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\IRANSans(FaNum)_UltraLight.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:102840
+FileModTime:1550391292
+WeightClass:200
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANSansFaNum UltraLight
+NameArray:0,Win,16,IRANSansFaNum
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANSans
+FamilyName:IRANSans
+StyleName:Regular
+FullName:IRANSans
+MenuName:IRANSans
+StyleBits:0
+FamilyNameNative:IRANSans
+StyleNameNative:Regular
+FullNameNative:IRANSans Regular
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\IRANSans.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:104296
+FileModTime:1550391292
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANSans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANSansMobileFaNum
+FamilyName:IRANSansMobile(FaNum)
+StyleName:Regular
+FullName:IRANSansMobile(FaNum)
+MenuName:IRANSansMobile(FaNum)
+StyleBits:0
+FamilyNameNative:IRANSansMobile(FaNum)
+StyleNameNative:Regular
+FullNameNative:IRANSansMobile(FaNum) Regular
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\IRANSansMobile(FaNum).ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:101748
+FileModTime:1550391292
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANSansMobile(FaNum)
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANSansMobileFaNum-Black
+FamilyName:IRANSansMobileFaNum
+StyleName:Black
+FullName:IRANSansMobileFaNum Black
+MenuName:IRANSansMobileFaNum Black
+StyleBits:0
+FamilyNameNative:IRANSansMobileFaNum
+StyleNameNative:Black
+FullNameNative:IRANSansMobileFaNum Black
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\IRANSansMobile(FaNum)_Black.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:98612
+FileModTime:1550391292
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANSansMobileFaNum Black
+NameArray:0,Win,16,IRANSansMobileFaNum
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANSansMobileFaNum-Bold
+FamilyName:IRANSansMobileFaNum
+StyleName:Bold
+FullName:IRANSansMobileFaNum Bold
+MenuName:IRANSansMobileFaNum
+StyleBits:2
+FamilyNameNative:IRANSansMobileFaNum
+StyleNameNative:Bold
+FullNameNative:IRANSansMobileFaNum Bold
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\IRANSansMobile(FaNum)_Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:101016
+FileModTime:1550391292
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANSansMobileFaNum
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANSansMobileFaNum-Light
+FamilyName:IRANSansMobileFaNum
+StyleName:Light
+FullName:IRANSansMobileFaNum Light
+MenuName:IRANSansMobileFaNum Light
+StyleBits:0
+FamilyNameNative:IRANSansMobileFaNum
+StyleNameNative:Light
+FullNameNative:IRANSansMobileFaNum Light
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\IRANSansMobile(FaNum)_Light.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:104184
+FileModTime:1550391292
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANSansMobileFaNum Light
+NameArray:0,Win,16,IRANSansMobileFaNum
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANSansMobileFaNum-Medium
+FamilyName:IRANSansMobileFaNum
+StyleName:Medium
+FullName:IRANSansMobileFaNum Medium
+MenuName:IRANSansMobileFaNum Medium
+StyleBits:0
+FamilyNameNative:IRANSansMobileFaNum
+StyleNameNative:Medium
+FullNameNative:IRANSansMobileFaNum Medium
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\IRANSansMobile(FaNum)_Medium.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:93004
+FileModTime:1550391292
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANSansMobileFaNum Medium
+NameArray:0,Win,16,IRANSansMobileFaNum
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANSansMobileFaNum-UltraLight
+FamilyName:IRANSansMobileFaNum
+StyleName:UltraLight
+FullName:IRANSansMobileFaNum UltraLight
+MenuName:IRANSansMobileFaNum UltraLigh
+StyleBits:0
+FamilyNameNative:IRANSansMobileFaNum
+StyleNameNative:UltraLight
+FullNameNative:IRANSansMobileFaNum UltraLight
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\IRANSansMobile(FaNum)_UltraLight.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:102864
+FileModTime:1550391292
+WeightClass:200
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANSansMobileFaNum UltraLigh
+NameArray:0,Win,16,IRANSansMobileFaNum
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANSansMonoSpacedNum
+FamilyName:IRANSans(MonoSpacedNum)
+StyleName:Regular
+FullName:IRANSans(MonoSpacedNum)
+MenuName:IRANSans(MonoSpacedNum)
+StyleBits:0
+FamilyNameNative:IRANSans(MonoSpacedNum)
+StyleNameNative:Regular
+FullNameNative:IRANSans(MonoSpacedNum) Regular
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\IRANSansMonoSpacedNum.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:55432
+FileModTime:1530591888
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,IRANSans(MonoSpacedNum)
+NameArray:0,Win,1,IRANSans(MonoSpacedNum)
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANSansMonoSpacedNum-Black
+FamilyName:IRANSans(MonoSpacedNum)
+StyleName:Black
+FullName:IRANSans(MonoSpacedNum) Black
+MenuName:IRANSans(MonoSpacedNum) Black
+StyleBits:0
+FamilyNameNative:IRANSans(MonoSpacedNum)
+StyleNameNative:Black
+FullNameNative:IRANSans(MonoSpacedNum) Black
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\IRANSansMonoSpacedNum_Black.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:92440
+FileModTime:1530591888
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,IRANSans(MonoSpacedNum) Black
+NameArray:0,Win,1,IRANSans(MonoSpacedNum) Black
+NameArray:0,Win,16,IRANSans(MonoSpacedNum)
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANSansMonoSpacedNum-Bold
+FamilyName:IRANSans(MonoSpacedNum)
+StyleName:Bold
+FullName:IRANSans(MonoSpacedNum) Bold
+MenuName:IRANSans(MonoSpacedNum)
+StyleBits:2
+FamilyNameNative:IRANSans(MonoSpacedNum)
+StyleNameNative:Bold
+FullNameNative:IRANSans(MonoSpacedNum) Bold
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\IRANSansMonoSpacedNum_Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:55744
+FileModTime:1530591888
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,IRANSans(MonoSpacedNum) Bold
+NameArray:0,Win,1,IRANSans(MonoSpacedNum)
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANSansMonoSpacedNum-Light
+FamilyName:IRANSans(MonoSpacedNum)
+StyleName:Light
+FullName:IRANSans(MonoSpacedNum) Light
+MenuName:IRANSans(MonoSpacedNum) Light
+StyleBits:0
+FamilyNameNative:IRANSans(MonoSpacedNum)
+StyleNameNative:Light
+FullNameNative:IRANSans(MonoSpacedNum) Light
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\IRANSansMonoSpacedNum_Light.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:57992
+FileModTime:1530591888
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,IRANSans(MonoSpacedNum) Light
+NameArray:0,Win,1,IRANSans(MonoSpacedNum) Light
+NameArray:0,Win,16,IRANSans(MonoSpacedNum)
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANSansMonoSpacedNum-Medium
+FamilyName:IRANSans(MonoSpacedNum)
+StyleName:Medium
+FullName:IRANSans(MonoSpacedNum) Medium
+MenuName:IRANSans(MonoSpacedNum) Medium
+StyleBits:0
+FamilyNameNative:IRANSans(MonoSpacedNum)
+StyleNameNative:Medium
+FullNameNative:IRANSans(MonoSpacedNum) Medium
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\IRANSansMonoSpacedNum_Medium.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:53184
+FileModTime:1530591888
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,IRANSans(MonoSpacedNum) Medium
+NameArray:0,Win,1,IRANSans(MonoSpacedNum) Medium
+NameArray:0,Win,16,IRANSans(MonoSpacedNum)
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANSansMonoSpacedNum-UltraLight
+FamilyName:IRANSans(MonoSpacedNum)
+StyleName:UltraLight
+FullName:IRANSans(MonoSpacedNum) UltraLight
+MenuName:IRANSans(MonoSpacedNum) UltraLi
+StyleBits:0
+FamilyNameNative:IRANSans(MonoSpacedNum)
+StyleNameNative:UltraLight
+FullNameNative:IRANSans(MonoSpacedNum) UltraLight
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\IRANSansMonoSpacedNum_UltraLight.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:57560
+FileModTime:1530591888
+WeightClass:200
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,IRANSans(MonoSpacedNum) UltraLight
+NameArray:0,Win,1,IRANSans(MonoSpacedNum) UltraLi
+NameArray:0,Win,16,IRANSans(MonoSpacedNum)
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANSansOnlyNumeral
+FamilyName:IRANSans(OnlyNumeral)
+StyleName:Regular
+FullName:IRANSans(OnlyNumeral)
+MenuName:IRANSans(OnlyNumeral)
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:Z:\زهرا یحیی زاده\Font\IRANSansOnlyNumeral.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:7428
+FileModTime:1530591888
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,IRANSans(OnlyNumeral)
+NameArray:0,Win,1,IRANSans(OnlyNumeral)
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANSansOnlyNumeral-Bold
+FamilyName:IRANSans(OnlyNumeral)
+StyleName:Bold
+FullName:IRANSans(OnlyNumeral) Bold
+MenuName:IRANSans(OnlyNumeral)
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:Z:\زهرا یحیی زاده\Font\IRANSansOnlyNumeral_Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:7444
+FileModTime:1530591888
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,IRANSans(OnlyNumeral) Bold
+NameArray:0,Win,1,IRANSans(OnlyNumeral)
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANSansOnlyNumeral-Light
+FamilyName:IRANSans(OnlyNumeral)
+StyleName:Light
+FullName:IRANSans(OnlyNumeral) Light
+MenuName:IRANSans(OnlyNumeral) Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:Z:\زهرا یحیی زاده\Font\IRANSansOnlyNumeral_Light.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:7932
+FileModTime:1530591888
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,IRANSans(OnlyNumeral) Light
+NameArray:0,Win,1,IRANSans(OnlyNumeral) Light
+NameArray:0,Win,16,IRANSans(OnlyNumeral)
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANSansOnlyNumeral-UltraLight
+FamilyName:IRANSans(OnlyNumeral)
+StyleName:UltraLight
+FullName:IRANSans(OnlyNumeral) UltraLight
+MenuName:IRANSans(OnlyNumeral) UltraLi
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:Z:\زهرا یحیی زاده\Font\IRANSansOnlyNumeral_UltraLight.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:7720
+FileModTime:1530591888
+WeightClass:200
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,IRANSans(OnlyNumeral) UltraLight
+NameArray:0,Win,1,IRANSans(OnlyNumeral) UltraLi
+NameArray:0,Win,16,IRANSans(OnlyNumeral)
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANSansOnlyNumral-Medium
+FamilyName:IRANSans(OnlyNumral)
+StyleName:Medium
+FullName:IRANSans(OnlyNumral) Medium
+MenuName:IRANSans(OnlyNumral) Medium
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:Z:\زهرا یحیی زاده\Font\IRANSansOnlyNumral_Medium.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:7528
+FileModTime:1530591888
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,IRANSans(OnlyNumral) Medium
+NameArray:0,Win,1,IRANSans(OnlyNumral) Medium
+NameArray:0,Win,16,IRANSans(OnlyNumral)
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANSansWebFaNum
+FamilyName:IRANSansWebFaNum
+StyleName:Regular
+FullName:IRANSansWebFaNum
+MenuName:IRANSansWebFaNum
+StyleBits:0
+FamilyNameNative:IRANSansWebFaNum
+StyleNameNative:Regular
+FullNameNative:IRANSansWebFaNum Regular
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\IRANSansWeb(FaNum).ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:61708
+FileModTime:1550391292
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANSansWebFaNum
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANSansWebFaNum-Black
+FamilyName:IRANSansWebFaNum
+StyleName:Black
+FullName:IRANSansWebFaNum Black
+MenuName:IRANSansWebFaNum Black
+StyleBits:0
+FamilyNameNative:IRANSansWebFaNum
+StyleNameNative:Black
+FullNameNative:IRANSansWebFaNum Black
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\IRANSansWeb(FaNum)_Black.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:59540
+FileModTime:1550391292
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANSansWebFaNum Black
+NameArray:0,Win,16,IRANSansWebFaNum
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANSansWebFaNum-Bold
+FamilyName:IRANSansWebFaNum
+StyleName:Bold
+FullName:IRANSansWebFaNum Bold
+MenuName:IRANSansWebFaNum
+StyleBits:2
+FamilyNameNative:IRANSansWebFaNum
+StyleNameNative:Bold
+FullNameNative:IRANSansWebFaNum Bold
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\IRANSansWeb(FaNum)_Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:61216
+FileModTime:1550391292
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANSansWebFaNum
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANSansWebFaNum-Light
+FamilyName:IRANSansWebFaNum
+StyleName:Light
+FullName:IRANSansWebFaNum Light
+MenuName:IRANSansWebFaNum Light
+StyleBits:0
+FamilyNameNative:IRANSansWebFaNum
+StyleNameNative:Light
+FullNameNative:IRANSansWebFaNum Light
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\IRANSansWeb(FaNum)_Light.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:63944
+FileModTime:1550391292
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANSansWebFaNum Light
+NameArray:0,Win,16,IRANSansWebFaNum
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANSansWebFaNum-Medium
+FamilyName:IRANSansWebFaNum
+StyleName:Medium
+FullName:IRANSansWebFaNum Medium
+MenuName:IRANSansWebFaNum Medium
+StyleBits:0
+FamilyNameNative:IRANSansWebFaNum
+StyleNameNative:Medium
+FullNameNative:IRANSansWebFaNum Medium
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\IRANSansWeb(FaNum)_Medium.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:52612
+FileModTime:1550391292
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANSansWebFaNum Medium
+NameArray:0,Win,16,IRANSansWebFaNum
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANSansWebFaNum-UltraLight
+FamilyName:IRANSansWebFaNum
+StyleName:UltraLight
+FullName:IRANSansWebFaNum UltraLight
+MenuName:IRANSansWebFaNum UltraLight
+StyleBits:0
+FamilyNameNative:IRANSansWebFaNum
+StyleNameNative:UltraLight
+FullNameNative:IRANSansWebFaNum UltraLight
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\IRANSansWeb(FaNum)_UltraLight.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:62984
+FileModTime:1550391292
+WeightClass:200
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANSansWebFaNum UltraLight
+NameArray:0,Win,16,IRANSansWebFaNum
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANSans-Black
+FamilyName:IRANSans
+StyleName:Black
+FullName:IRANSans Black
+MenuName:IRANSans Black
+StyleBits:0
+FamilyNameNative:IRANSans
+StyleNameNative:Black
+FullNameNative:IRANSans Black
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\IRANSans_Black.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:98216
+FileModTime:1550391292
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANSans Black
+NameArray:0,Win,16,IRANSans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANSans-Bold
+FamilyName:IRANSans
+StyleName:Bold
+FullName:IRANSans Bold
+MenuName:IRANSans
+StyleBits:2
+FamilyNameNative:IRANSans
+StyleNameNative:Bold
+FullNameNative:IRANSans Bold
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\IRANSans_Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:100628
+FileModTime:1550391292
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANSans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANSans-Light
+FamilyName:IRANSans
+StyleName:Light
+FullName:IRANSans Light
+MenuName:IRANSans Light
+StyleBits:0
+FamilyNameNative:IRANSans
+StyleNameNative:Light
+FullNameNative:IRANSans Light
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\IRANSans_Light.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:97244
+FileModTime:1550391292
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANSans Light
+NameArray:0,Win,16,IRANSans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANSans-Medium
+FamilyName:IRANSans
+StyleName:Medium
+FullName:IRANSans Medium
+MenuName:IRANSans Medium
+StyleBits:0
+FamilyNameNative:IRANSans
+StyleNameNative:Medium
+FullNameNative:IRANSans Medium
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\IRANSans_Medium.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:92576
+FileModTime:1550391292
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANSans Medium
+NameArray:0,Win,16,IRANSans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANSans-UltraLight
+FamilyName:IRANSans
+StyleName:UltraLight
+FullName:IRANSans UltraLight
+MenuName:IRANSans UltraLight
+StyleBits:0
+FamilyNameNative:IRANSans
+StyleNameNative:UltraLight
+FullNameNative:IRANSans UltraLight
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\IRANSans_UltraLight.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:102516
+FileModTime:1550391292
+WeightClass:200
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANSans UltraLight
+NameArray:0,Win,16,IRANSans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANYekan-Black
+FamilyName:IRANYekan
+StyleName:Black
+FullName:IRANYekan Black
+MenuName:IRANYekan Black
+StyleBits:0
+FamilyNameNative:IRANYekan
+StyleNameNative:Black
+FullNameNative:IRANYekan Black
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\IRANYekanBlack.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:58580
+FileModTime:1562469020
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANYekan Black
+NameArray:0,Win,16,IRANYekan
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANYekanFN-Black
+FamilyName:IRANYekanFN
+StyleName:Black
+FullName:IRANYekanFN Black
+MenuName:IRANYekanFN Black
+StyleBits:0
+FamilyNameNative:IRANYekanFN
+StyleNameNative:Black
+FullNameNative:IRANYekanFN Black
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\IRANYekanBlackFaNum.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:59004
+FileModTime:1562469020
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANYekanFN Black
+NameArray:0,Win,16,IRANYekanFN
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANYekanMsn-Black
+FamilyName:IRANYekanMsn
+StyleName:Black
+FullName:IRANYekanMsn Black
+MenuName:IRANYekanMsn Black
+StyleBits:0
+FamilyNameNative:IRANYekanMsn
+StyleNameNative:Black
+FullNameNative:IRANYekanMsn Black
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\IRANYekanBlackMsn.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:59580
+FileModTime:1562469020
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANYekanMsn Black
+NameArray:0,Win,16,IRANYekanMsn
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANYekanRd-Black
+FamilyName:IRANYekanRd
+StyleName:Black
+FullName:IRANYekanRd Black
+MenuName:IRANYekanRd Black
+StyleBits:0
+FamilyNameNative:IRANYekanRd
+StyleNameNative:Black
+FullNameNative:IRANYekanRd Black
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\IRANYekanBlackRd.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:58912
+FileModTime:1562469020
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANYekanRd Black
+NameArray:0,Win,16,IRANYekanRd
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANYekan-Bold
+FamilyName:IRANYekan
+StyleName:Bold
+FullName:IRANYekan Bold
+MenuName:IRANYekan
+StyleBits:2
+FamilyNameNative:IRANYekan
+StyleNameNative:Bold
+FullNameNative:IRANYekan Bold
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\IRANYekanBold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:58788
+FileModTime:1562469020
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANYekan
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANYekanFN-Bold
+FamilyName:IRANYekanFN
+StyleName:Bold
+FullName:IRANYekanFN Bold
+MenuName:IRANYekanFN
+StyleBits:2
+FamilyNameNative:IRANYekanFN
+StyleNameNative:Bold
+FullNameNative:IRANYekanFN Bold
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\IRANYekanBoldFaNum.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:59504
+FileModTime:1562469020
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANYekanFN
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANYekanMsn-Bold
+FamilyName:IRANYekanMsn
+StyleName:Bold
+FullName:IRANYekanMsn Bold
+MenuName:IRANYekanMsn
+StyleBits:2
+FamilyNameNative:IRANYekanMsn
+StyleNameNative:Bold
+FullNameNative:IRANYekanMsn Bold
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\IRANYekanBoldMsn.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:60288
+FileModTime:1562469020
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANYekanMsn
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANYekanRd-Bold
+FamilyName:IRANYekanRd
+StyleName:Bold
+FullName:IRANYekanRd Bold
+MenuName:IRANYekanRd
+StyleBits:2
+FamilyNameNative:IRANYekanRd
+StyleNameNative:Bold
+FullNameNative:IRANYekanRd Bold
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\IRANYekanBoldRd.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:59024
+FileModTime:1562469020
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANYekanRd
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANYekan-ExtraBlack
+FamilyName:IRANYekan
+StyleName:ExtraBlack
+FullName:IRANYekan ExtraBlack
+MenuName:IRANYekan ExtraBlack
+StyleBits:0
+FamilyNameNative:IRANYekan
+StyleNameNative:ExtraBlack
+FullNameNative:IRANYekan ExtraBlack
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\IRANYekanExtraBlack.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:60264
+FileModTime:1562469020
+WeightClass:950
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANYekan ExtraBlack
+NameArray:0,Win,16,IRANYekan
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANYekanFN-ExtraBlack
+FamilyName:IRANYekanFN
+StyleName:ExtraBlack
+FullName:IRANYekanFN ExtraBlack
+MenuName:IRANYekanFN ExtraBlack
+StyleBits:0
+FamilyNameNative:IRANYekanFN
+StyleNameNative:ExtraBlack
+FullNameNative:IRANYekanFN ExtraBlack
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\IRANYekanExtraBlackFaNum.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:60840
+FileModTime:1562469020
+WeightClass:950
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANYekanFN ExtraBlack
+NameArray:0,Win,16,IRANYekanFN
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANYekanMsn-ExtraBlack
+FamilyName:IRANYekanMsn
+StyleName:ExtraBlack
+FullName:IRANYekanMsn ExtraBlack
+MenuName:IRANYekanMsn ExtraBlack
+StyleBits:0
+FamilyNameNative:IRANYekanMsn
+StyleNameNative:ExtraBlack
+FullNameNative:IRANYekanMsn ExtraBlack
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\IRANYekanExtraBlackMsn.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:61688
+FileModTime:1562469020
+WeightClass:950
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANYekanMsn ExtraBlack
+NameArray:0,Win,16,IRANYekanMsn
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANYekanRd-ExtraBlack
+FamilyName:IRANYekanRd
+StyleName:ExtraBlack
+FullName:IRANYekanRd ExtraBlack
+MenuName:IRANYekanRd ExtraBlack
+StyleBits:0
+FamilyNameNative:IRANYekanRd
+StyleNameNative:ExtraBlack
+FullNameNative:IRANYekanRd ExtraBlack
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\IRANYekanExtraBlackRd.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:60684
+FileModTime:1562469020
+WeightClass:950
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANYekanRd ExtraBlack
+NameArray:0,Win,16,IRANYekanRd
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANYekan-ExtraBold
+FamilyName:IRANYekan
+StyleName:ExtraBold
+FullName:IRANYekan ExtraBold
+MenuName:IRANYekan ExtraBold
+StyleBits:0
+FamilyNameNative:IRANYekan
+StyleNameNative:ExtraBold
+FullNameNative:IRANYekan ExtraBold
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\IRANYekanExtraBold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:59084
+FileModTime:1562469020
+WeightClass:800
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANYekan ExtraBold
+NameArray:0,Win,16,IRANYekan
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANYekanFN-ExtraBold
+FamilyName:IRANYekanFN
+StyleName:ExtraBold
+FullName:IRANYekanFN ExtraBold
+MenuName:IRANYekanFN ExtraBold
+StyleBits:0
+FamilyNameNative:IRANYekanFN
+StyleNameNative:ExtraBold
+FullNameNative:IRANYekanFN ExtraBold
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\IRANYekanExtraBoldFaNum.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:59884
+FileModTime:1562469020
+WeightClass:800
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANYekanFN ExtraBold
+NameArray:0,Win,16,IRANYekanFN
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANYekanMsn-ExtraBold
+FamilyName:IRANYekanMsn
+StyleName:ExtraBold
+FullName:IRANYekanMsn ExtraBold
+MenuName:IRANYekanMsn ExtraBold
+StyleBits:0
+FamilyNameNative:IRANYekanMsn
+StyleNameNative:ExtraBold
+FullNameNative:IRANYekanMsn ExtraBold
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\IRANYekanExtraBoldMsn.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:59888
+FileModTime:1562469020
+WeightClass:800
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANYekanMsn ExtraBold
+NameArray:0,Win,16,IRANYekanMsn
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANYekanRd-ExtraBold
+FamilyName:IRANYekanRd
+StyleName:ExtraBold
+FullName:IRANYekanRd ExtraBold
+MenuName:IRANYekanRd ExtraBold
+StyleBits:0
+FamilyNameNative:IRANYekanRd
+StyleNameNative:ExtraBold
+FullNameNative:IRANYekanRd ExtraBold
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\IRANYekanExtraBoldRd.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:59360
+FileModTime:1562469020
+WeightClass:800
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANYekanRd ExtraBold
+NameArray:0,Win,16,IRANYekanRd
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANYekan-Light
+FamilyName:IRANYekan
+StyleName:Light
+FullName:IRANYekan Light
+MenuName:IRANYekan Light
+StyleBits:0
+FamilyNameNative:IRANYekan
+StyleNameNative:Light
+FullNameNative:IRANYekan Light
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\IRANYekanLight.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:60524
+FileModTime:1562469020
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANYekan Light
+NameArray:0,Win,16,IRANYekan
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANYekanFN-Light
+FamilyName:IRANYekanFN
+StyleName:Light
+FullName:IRANYekanFN Light
+MenuName:IRANYekanFN Light
+StyleBits:0
+FamilyNameNative:IRANYekanFN
+StyleNameNative:Light
+FullNameNative:IRANYekanFN Light
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\IRANYekanLightFaNum.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:61476
+FileModTime:1562469020
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANYekanFN Light
+NameArray:0,Win,16,IRANYekanFN
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANYekanMsn-Light
+FamilyName:IRANYekanMsn
+StyleName:Light
+FullName:IRANYekanMsn Light
+MenuName:IRANYekanMsn Light
+StyleBits:0
+FamilyNameNative:IRANYekanMsn
+StyleNameNative:Light
+FullNameNative:IRANYekanMsn Light
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\IRANYekanLightMsn.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:62332
+FileModTime:1562469020
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANYekanMsn Light
+NameArray:0,Win,16,IRANYekanMsn
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANYekanRd-Light
+FamilyName:IRANYekanRd
+StyleName:Light
+FullName:IRANYekanRd Light
+MenuName:IRANYekanRd Light
+StyleBits:0
+FamilyNameNative:IRANYekanRd
+StyleNameNative:Light
+FullNameNative:IRANYekanRd Light
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\IRANYekanLightRd.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:60780
+FileModTime:1562469020
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANYekanRd Light
+NameArray:0,Win,16,IRANYekanRd
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANYekan-Medium
+FamilyName:IRANYekan
+StyleName:Medium
+FullName:IRANYekan Medium
+MenuName:IRANYekan Medium
+StyleBits:0
+FamilyNameNative:IRANYekan
+StyleNameNative:Medium
+FullNameNative:IRANYekan Medium
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\IRANYekanMedium.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:59592
+FileModTime:1562469020
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANYekan Medium
+NameArray:0,Win,16,IRANYekan
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANYekanFN-Medium
+FamilyName:IRANYekanFN
+StyleName:Medium
+FullName:IRANYekanFN Medium
+MenuName:IRANYekanFN Medium
+StyleBits:0
+FamilyNameNative:IRANYekanFN
+StyleNameNative:Medium
+FullNameNative:IRANYekanFN Medium
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\IRANYekanMediumFaNum.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:60392
+FileModTime:1562469020
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANYekanFN Medium
+NameArray:0,Win,16,IRANYekanFN
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANYekanMsn-Medium
+FamilyName:IRANYekanMsn
+StyleName:Medium
+FullName:IRANYekanMsn Medium
+MenuName:IRANYekanMsn Medium
+StyleBits:0
+FamilyNameNative:IRANYekanMsn
+StyleNameNative:Medium
+FullNameNative:IRANYekanMsn Medium
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\IRANYekanMediumMsn.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:61232
+FileModTime:1562469020
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANYekanMsn Medium
+NameArray:0,Win,16,IRANYekanMsn
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANYekanRd-Medium
+FamilyName:IRANYekanRd
+StyleName:Medium
+FullName:IRANYekanRd Medium
+MenuName:IRANYekanRd Medium
+StyleBits:0
+FamilyNameNative:IRANYekanRd
+StyleNameNative:Medium
+FullNameNative:IRANYekanRd Medium
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\IRANYekanMediumRd.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:59868
+FileModTime:1562469020
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANYekanRd Medium
+NameArray:0,Win,16,IRANYekanRd
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANYekanMobile-Black
+FamilyName:IRANYekanMobile
+StyleName:Black
+FullName:IRANYekanMobile Black
+MenuName:IRANYekanMobile Black
+StyleBits:0
+FamilyNameNative:IRANYekanMobile
+StyleNameNative:Black
+FullNameNative:IRANYekanMobile Black
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\IRANYekanMobileBlack.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:58580
+FileModTime:1562469020
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANYekanMobile Black
+NameArray:0,Win,16,IRANYekanMobile
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANYekanMobileFN-Black
+FamilyName:IRANYekanMobileFN
+StyleName:Black
+FullName:IRANYekanMobileFN Black
+MenuName:IRANYekanMobileFN Black
+StyleBits:0
+FamilyNameNative:IRANYekanMobileFN
+StyleNameNative:Black
+FullNameNative:IRANYekanMobileFN Black
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\IRANYekanMobileBlack_0.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:59004
+FileModTime:1562469020
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANYekanMobileFN Black
+NameArray:0,Win,16,IRANYekanMobileFN
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANYekanMobile-Bold
+FamilyName:IRANYekanMobile
+StyleName:Bold
+FullName:IRANYekanMobile Bold
+MenuName:IRANYekanMobile
+StyleBits:2
+FamilyNameNative:IRANYekanMobile
+StyleNameNative:Bold
+FullNameNative:IRANYekanMobile Bold
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\IRANYekanMobileBold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:58800
+FileModTime:1562469020
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANYekanMobile
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANYekanMobileFN-Bold
+FamilyName:IRANYekanMobileFN
+StyleName:Bold
+FullName:IRANYekanMobileFN Bold
+MenuName:IRANYekanMobileFN
+StyleBits:2
+FamilyNameNative:IRANYekanMobileFN
+StyleNameNative:Bold
+FullNameNative:IRANYekanMobileFN Bold
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\IRANYekanMobileBold_0.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:59528
+FileModTime:1562469020
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANYekanMobileFN
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANYekanMobile-ExtraBlack
+FamilyName:IRANYekanMobile
+StyleName:ExtraBlack
+FullName:IRANYekanMobile ExtraBlack
+MenuName:IRANYekanMobile ExtraBlack
+StyleBits:0
+FamilyNameNative:IRANYekanMobile
+StyleNameNative:ExtraBlack
+FullNameNative:IRANYekanMobile ExtraBlack
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\IRANYekanMobileExtraBlack.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:60288
+FileModTime:1562469020
+WeightClass:950
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANYekanMobile ExtraBlack
+NameArray:0,Win,16,IRANYekanMobile
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANYekanMobileFN-ExtraBlack
+FamilyName:IRANYekanMobileFN
+StyleName:ExtraBlack
+FullName:IRANYekanMobileFN ExtraBlack
+MenuName:IRANYekanMobileFN ExtraBlack
+StyleBits:0
+FamilyNameNative:IRANYekanMobileFN
+StyleNameNative:ExtraBlack
+FullNameNative:IRANYekanMobileFN ExtraBlack
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\IRANYekanMobileExtraBlack_0.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:60864
+FileModTime:1562469020
+WeightClass:950
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANYekanMobileFN ExtraBlack
+NameArray:0,Win,16,IRANYekanMobileFN
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANYekanMobile-ExtraBold
+FamilyName:IRANYekanMobile
+StyleName:ExtraBold
+FullName:IRANYekanMobile ExtraBold
+MenuName:IRANYekanMobile ExtraBold
+StyleBits:0
+FamilyNameNative:IRANYekanMobile
+StyleNameNative:ExtraBold
+FullNameNative:IRANYekanMobile ExtraBold
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\IRANYekanMobileExtraBold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:59108
+FileModTime:1562469020
+WeightClass:800
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANYekanMobile ExtraBold
+NameArray:0,Win,16,IRANYekanMobile
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANYekanMobileFN-ExtraBold
+FamilyName:IRANYekanMobileFN
+StyleName:ExtraBold
+FullName:IRANYekanMobileFN ExtraBold
+MenuName:IRANYekanMobileFN ExtraBold
+StyleBits:0
+FamilyNameNative:IRANYekanMobileFN
+StyleNameNative:ExtraBold
+FullNameNative:IRANYekanMobileFN ExtraBold
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\IRANYekanMobileExtraBold_0.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:59908
+FileModTime:1562469020
+WeightClass:800
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANYekanMobileFN ExtraBold
+NameArray:0,Win,16,IRANYekanMobileFN
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANYekanMobile-Light
+FamilyName:IRANYekanMobile
+StyleName:Light
+FullName:IRANYekanMobile Light
+MenuName:IRANYekanMobile Light
+StyleBits:0
+FamilyNameNative:IRANYekanMobile
+StyleNameNative:Light
+FullNameNative:IRANYekanMobile Light
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\IRANYekanMobileLight.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:60436
+FileModTime:1562469020
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANYekanMobile Light
+NameArray:0,Win,16,IRANYekanMobile
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANYekanMobileFN-Light
+FamilyName:IRANYekanMobileFN
+StyleName:Light
+FullName:IRANYekanMobileFN Light
+MenuName:IRANYekanMobileFN Light
+StyleBits:0
+FamilyNameNative:IRANYekanMobileFN
+StyleNameNative:Light
+FullNameNative:IRANYekanMobileFN Light
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\IRANYekanMobileLight_0.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:61388
+FileModTime:1562469020
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANYekanMobileFN Light
+NameArray:0,Win,16,IRANYekanMobileFN
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANYekanMobile-Medium
+FamilyName:IRANYekanMobile
+StyleName:Medium
+FullName:IRANYekanMobile Medium
+MenuName:IRANYekanMobile Medium
+StyleBits:0
+FamilyNameNative:IRANYekanMobile
+StyleNameNative:Medium
+FullNameNative:IRANYekanMobile Medium
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\IRANYekanMobileMedium.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:59616
+FileModTime:1562469020
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANYekanMobile Medium
+NameArray:0,Win,16,IRANYekanMobile
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANYekanMobileFN-Medium
+FamilyName:IRANYekanMobileFN
+StyleName:Medium
+FullName:IRANYekanMobileFN Medium
+MenuName:IRANYekanMobileFN Medium
+StyleBits:0
+FamilyNameNative:IRANYekanMobileFN
+StyleNameNative:Medium
+FullNameNative:IRANYekanMobileFN Medium
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\IRANYekanMobileMedium_0.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:60416
+FileModTime:1562469020
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANYekanMobileFN Medium
+NameArray:0,Win,16,IRANYekanMobileFN
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANYekanMobile
+FamilyName:IRANYekanMobile
+StyleName:Regular
+FullName:IRANYekanMobile
+MenuName:IRANYekanMobile
+StyleBits:0
+FamilyNameNative:IRANYekanMobile
+StyleNameNative:Regular
+FullNameNative:IRANYekanMobile Regular
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\IRANYekanMobileRegular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:59464
+FileModTime:1562469020
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANYekanMobile
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANYekanMobileFN
+FamilyName:IRANYekanMobileFN
+StyleName:Regular
+FullName:IRANYekanMobileFN
+MenuName:IRANYekanMobileFN
+StyleBits:0
+FamilyNameNative:IRANYekanMobileFN
+StyleNameNative:Regular
+FullNameNative:IRANYekanMobileFN Regular
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\IRANYekanMobileRegular_0.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:60276
+FileModTime:1562469020
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANYekanMobileFN
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANYekanMobile-Thin
+FamilyName:IRANYekanMobile
+StyleName:Thin
+FullName:IRANYekanMobile Thin
+MenuName:IRANYekanMobile Thin
+StyleBits:0
+FamilyNameNative:IRANYekanMobile
+StyleNameNative:Thin
+FullNameNative:IRANYekanMobile Thin
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\IRANYekanMobileThin.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:62548
+FileModTime:1562469020
+WeightClass:100
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANYekanMobile Thin
+NameArray:0,Win,16,IRANYekanMobile
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANYekanMobileFN-Thin
+FamilyName:IRANYekanMobileFN
+StyleName:Thin
+FullName:IRANYekanMobileFN Thin
+MenuName:IRANYekanMobileFN Thin
+StyleBits:0
+FamilyNameNative:IRANYekanMobileFN
+StyleNameNative:Thin
+FullNameNative:IRANYekanMobileFN Thin
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\IRANYekanMobileThin_0.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:63712
+FileModTime:1562469020
+WeightClass:100
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANYekanMobileFN Thin
+NameArray:0,Win,16,IRANYekanMobileFN
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANYekan
+FamilyName:IRANYekan
+StyleName:Regular
+FullName:IRANYekan
+MenuName:IRANYekan
+StyleBits:0
+FamilyNameNative:IRANYekan
+StyleNameNative:Regular
+FullNameNative:IRANYekan Regular
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\IRANYekanRegular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:59452
+FileModTime:1562469020
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANYekan
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANYekanFN
+FamilyName:IRANYekanFN
+StyleName:Regular
+FullName:IRANYekanFN
+MenuName:IRANYekanFN
+StyleBits:0
+FamilyNameNative:IRANYekanFN
+StyleNameNative:Regular
+FullNameNative:IRANYekanFN Regular
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\IRANYekanRegularFaNum.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:60264
+FileModTime:1562469020
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANYekanFN
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANYekanMsn
+FamilyName:IRANYekanMsn
+StyleName:Regular
+FullName:IRANYekanMsn
+MenuName:IRANYekanMsn
+StyleBits:0
+FamilyNameNative:IRANYekanMsn
+StyleNameNative:Regular
+FullNameNative:IRANYekanMsn Regular
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\IRANYekanRegularMsn.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:61108
+FileModTime:1562469020
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANYekanMsn
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANYekanRd
+FamilyName:IRANYekanRd
+StyleName:Regular
+FullName:IRANYekanRd
+MenuName:IRANYekanRd
+StyleBits:0
+FamilyNameNative:IRANYekanRd
+StyleNameNative:Regular
+FullNameNative:IRANYekanRd Regular
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\IRANYekanRegularRd.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:59700
+FileModTime:1562469020
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANYekanRd
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANYekan-Thin
+FamilyName:IRANYekan
+StyleName:Thin
+FullName:IRANYekan Thin
+MenuName:IRANYekan Thin
+StyleBits:0
+FamilyNameNative:IRANYekan
+StyleNameNative:Thin
+FullNameNative:IRANYekan Thin
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\IRANYekanThin.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:62616
+FileModTime:1562469020
+WeightClass:100
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANYekan Thin
+NameArray:0,Win,16,IRANYekan
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANYekanFN-Thin
+FamilyName:IRANYekanFN
+StyleName:Thin
+FullName:IRANYekanFN Thin
+MenuName:IRANYekanFN Thin
+StyleBits:0
+FamilyNameNative:IRANYekanFN
+StyleNameNative:Thin
+FullNameNative:IRANYekanFN Thin
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\IRANYekanThinFaNum.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:63780
+FileModTime:1562469020
+WeightClass:100
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANYekanFN Thin
+NameArray:0,Win,16,IRANYekanFN
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANYekanMsn-Thin
+FamilyName:IRANYekanMsn
+StyleName:Thin
+FullName:IRANYekanMsn Thin
+MenuName:IRANYekanMsn Thin
+StyleBits:0
+FamilyNameNative:IRANYekanMsn
+StyleNameNative:Thin
+FullNameNative:IRANYekanMsn Thin
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\IRANYekanThinMsn.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:64680
+FileModTime:1562469020
+WeightClass:100
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANYekanMsn Thin
+NameArray:0,Win,16,IRANYekanMsn
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANYekanRd-Thin
+FamilyName:IRANYekanRd
+StyleName:Thin
+FullName:IRANYekanRd Thin
+MenuName:IRANYekanRd Thin
+StyleBits:0
+FamilyNameNative:IRANYekanRd
+StyleNameNative:Thin
+FullNameNative:IRANYekanRd Thin
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\IRANYekanThinRd.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:62888
+FileModTime:1562469020
+WeightClass:100
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANYekanRd Thin
+NameArray:0,Win,16,IRANYekanRd
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANYekanWeb-Black
+FamilyName:IRANYekanWeb
+StyleName:Black
+FullName:IRANYekanWeb Black
+MenuName:IRANYekanWeb Black
+StyleBits:0
+FamilyNameNative:IRANYekanWeb
+StyleNameNative:Black
+FullNameNative:IRANYekanWeb Black
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\iranyekanwebblack.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:58592
+FileModTime:1562465420
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANYekanWeb Black
+NameArray:0,Win,16,IRANYekanWeb
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANYekanWebFn-Black
+FamilyName:IRANYekanWebFn
+StyleName:Black
+FullName:IRANYekanWebFn Black
+MenuName:IRANYekanWebFn Black
+StyleBits:0
+FamilyNameNative:IRANYekanWebFn
+StyleNameNative:Black
+FullNameNative:IRANYekanWebFn Black
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\iranyekanwebblackfanum.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:59016
+FileModTime:1562469020
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANYekanWebFn Black
+NameArray:0,Win,16,IRANYekanWebFn
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANYekanWeb-Bold
+FamilyName:IRANYekanWeb
+StyleName:Bold
+FullName:IRANYekanWeb Bold
+MenuName:IRANYekanWeb
+StyleBits:2
+FamilyNameNative:IRANYekanWeb
+StyleNameNative:Bold
+FullNameNative:IRANYekanWeb Bold
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\iranyekanwebbold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:58800
+FileModTime:1562465420
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANYekanWeb
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANYekanWebFn-Bold
+FamilyName:IRANYekanWebFn
+StyleName:Bold
+FullName:IRANYekanWebFn Bold
+MenuName:IRANYekanWebFn
+StyleBits:2
+FamilyNameNative:IRANYekanWebFn
+StyleNameNative:Bold
+FullNameNative:IRANYekanWebFn Bold
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\iranyekanwebboldfanum.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:59528
+FileModTime:1562469020
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANYekanWebFn
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANYekanWeb-ExtraBlack
+FamilyName:IRANYekanWeb
+StyleName:ExtraBlack
+FullName:IRANYekanWeb ExtraBlack
+MenuName:IRANYekanWeb ExtraBlack
+StyleBits:0
+FamilyNameNative:IRANYekanWeb
+StyleNameNative:ExtraBlack
+FullNameNative:IRANYekanWeb ExtraBlack
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\iranyekanwebextrablack.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:60276
+FileModTime:1562465420
+WeightClass:950
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANYekanWeb ExtraBlack
+NameArray:0,Win,16,IRANYekanWeb
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANYekanWebFn-ExtraBlack
+FamilyName:IRANYekanWebFn
+StyleName:ExtraBlack
+FullName:IRANYekanWebFn ExtraBlack
+MenuName:IRANYekanWebFn ExtraBlack
+StyleBits:0
+FamilyNameNative:IRANYekanWebFn
+StyleNameNative:ExtraBlack
+FullNameNative:IRANYekanWebFn ExtraBlack
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\iranyekanwebextrablackfanum.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:60852
+FileModTime:1562469020
+WeightClass:950
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANYekanWebFn ExtraBlack
+NameArray:0,Win,16,IRANYekanWebFn
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANYekanWeb-ExtraBold
+FamilyName:IRANYekanWeb
+StyleName:ExtraBold
+FullName:IRANYekanWeb ExtraBold
+MenuName:IRANYekanWeb ExtraBold
+StyleBits:0
+FamilyNameNative:IRANYekanWeb
+StyleNameNative:ExtraBold
+FullNameNative:IRANYekanWeb ExtraBold
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\iranyekanwebextrabold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:59096
+FileModTime:1562465420
+WeightClass:800
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANYekanWeb ExtraBold
+NameArray:0,Win,16,IRANYekanWeb
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANYekanWebFn-ExtraBold
+FamilyName:IRANYekanWebFn
+StyleName:ExtraBold
+FullName:IRANYekanWebFn ExtraBold
+MenuName:IRANYekanWebFn ExtraBold
+StyleBits:0
+FamilyNameNative:IRANYekanWebFn
+StyleNameNative:ExtraBold
+FullNameNative:IRANYekanWebFn ExtraBold
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\iranyekanwebextraboldfanum.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:59896
+FileModTime:1562469020
+WeightClass:800
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANYekanWebFn ExtraBold
+NameArray:0,Win,16,IRANYekanWebFn
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANYekanWeb-Light
+FamilyName:IRANYekanWeb
+StyleName:Light
+FullName:IRANYekanWeb Light
+MenuName:IRANYekanWeb Light
+StyleBits:0
+FamilyNameNative:IRANYekanWeb
+StyleNameNative:Light
+FullNameNative:IRANYekanWeb Light
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\iranyekanweblight.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:60536
+FileModTime:1562465420
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANYekanWeb Light
+NameArray:0,Win,16,IRANYekanWeb
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANYekanWebFn-Light
+FamilyName:IRANYekanWebFn
+StyleName:Light
+FullName:IRANYekanWebFn Light
+MenuName:IRANYekanWebFn Light
+StyleBits:0
+FamilyNameNative:IRANYekanWebFn
+StyleNameNative:Light
+FullNameNative:IRANYekanWebFn Light
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\iranyekanweblightfanum.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:61488
+FileModTime:1562469020
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANYekanWebFn Light
+NameArray:0,Win,16,IRANYekanWebFn
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANYekanWeb-Medium
+FamilyName:IRANYekanWeb
+StyleName:Medium
+FullName:IRANYekanWeb Medium
+MenuName:IRANYekanWeb Medium
+StyleBits:0
+FamilyNameNative:IRANYekanWeb
+StyleNameNative:Medium
+FullNameNative:IRANYekanWeb Medium
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\iranyekanwebmedium.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:59604
+FileModTime:1562465420
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANYekanWeb Medium
+NameArray:0,Win,16,IRANYekanWeb
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANYekanWebFn-Medium
+FamilyName:IRANYekanWebFn
+StyleName:Medium
+FullName:IRANYekanWebFn Medium
+MenuName:IRANYekanWebFn Medium
+StyleBits:0
+FamilyNameNative:IRANYekanWebFn
+StyleNameNative:Medium
+FullNameNative:IRANYekanWebFn Medium
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\iranyekanwebmediumfanum.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:60404
+FileModTime:1562469020
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANYekanWebFn Medium
+NameArray:0,Win,16,IRANYekanWebFn
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANYekanWeb
+FamilyName:IRANYekanWeb
+StyleName:Regular
+FullName:IRANYekanWeb
+MenuName:IRANYekanWeb
+StyleBits:0
+FamilyNameNative:IRANYekanWeb
+StyleNameNative:Regular
+FullNameNative:IRANYekanWeb Regular
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\iranyekanwebregular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:59456
+FileModTime:1562465420
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANYekanWeb
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANYekanWebFn
+FamilyName:IRANYekanWebFn
+StyleName:Regular
+FullName:IRANYekanWebFn
+MenuName:IRANYekanWebFn
+StyleBits:0
+FamilyNameNative:IRANYekanWebFn
+StyleNameNative:Regular
+FullNameNative:IRANYekanWebFn Regular
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\iranyekanwebregularfanum.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:60268
+FileModTime:1562469020
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANYekanWebFn
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANYekanWeb-Thin
+FamilyName:IRANYekanWeb
+StyleName:Thin
+FullName:IRANYekanWeb Thin
+MenuName:IRANYekanWeb Thin
+StyleBits:0
+FamilyNameNative:IRANYekanWeb
+StyleNameNative:Thin
+FullNameNative:IRANYekanWeb Thin
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\iranyekanwebthin.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:62628
+FileModTime:1562465420
+WeightClass:100
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANYekanWeb Thin
+NameArray:0,Win,16,IRANYekanWeb
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANYekanWebFn-Thin
+FamilyName:IRANYekanWebFn
+StyleName:Thin
+FullName:IRANYekanWebFn Thin
+MenuName:IRANYekanWebFn Thin
+StyleBits:0
+FamilyNameNative:IRANYekanWebFn
+StyleNameNative:Thin
+FullNameNative:IRANYekanWebFn Thin
+WritingScript:Arabic
+OutlineFileName:Z:\زهرا یحیی زاده\Font\iranyekanwebthinfanum.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:63792
+FileModTime:1562469020
+WeightClass:100
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IRANYekanWebFn Thin
+NameArray:0,Win,16,IRANYekanWebFn
+%EndFont
+
